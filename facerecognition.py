@@ -5,7 +5,6 @@ import numpy as np
 import os
 from datetime import datetime
 from datetime import date
-#hello
 
 path = 'img'
 images = []     # LIST CONTAINING ALL THE IMAGES
