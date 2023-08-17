@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1>Facial Recognition Attendance System<h1>
-<h2>Requires Libraries</h2>
+<h2>Required Libraries</h2>
 <h2>facial_recgnition</h2>
 <h2>OpenCV</h2>
 <h2>Numpy</h2>
