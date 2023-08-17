@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <h2>facial_recgnition</h2>
 <h2>OpenCV</h2>
 <h2>NUmpy for calculatiions</h2>
-<h2>Make sure you unstalled all these libraries before run the programme</h2>
+<h2>Make sure you installed all these libraries before running the program </h2>
