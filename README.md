@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>This is my first project!!!!<h1>
+<h1>Facial Recognition Attendence System<h1>
+<h2>OpenCV</h2>
