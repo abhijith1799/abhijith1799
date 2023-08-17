@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <h2>Requires Libraries</h2>
 <h2>facial_recgnition</h2>
 <h2>OpenCV</h2>
-<h2>Numpy for calculatiions</h2>
+<h2>Numpy</h2>
 <h2>Make sure you installed all these libraries before running the program </h2>
